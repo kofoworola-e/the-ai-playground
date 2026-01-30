@@ -1,7 +1,7 @@
 # Lesson 1: Introduction to Artificial Intelligence
 
 ## 1. What is AI?
-Traditionally, computers follow algorithms—well-defined sequences of steps to achieve a goal (a concept dating back to Charles Babbage).
+Traditionally, computers follow algorithms which are well-defined sequences of steps to achieve a goal (a concept dating back to Charles Babbage).
 * **The Difference:** AI focuses on tasks we *cannot* explicitly program because we don't know the exact rules (e.g., determining a person's age from a photograph). We know *how* to do it subconsciously, but we can't write the code for it step-by-step.
 
 ## 2. Weak vs. Strong AI
